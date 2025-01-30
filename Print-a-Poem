@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(void)
+{   
+    printf("Someday, somebody will remember us - I say - Even in another time\n");
+    return 0;
+}  
